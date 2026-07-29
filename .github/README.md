@@ -55,7 +55,7 @@ Our CI/CD pipeline is built using **GitHub Actions** and provides automated test
 
 **Status Badge**: Add to README
 ```markdown
-![CI Pipeline](https://github.com/maastrichtlawtech/case-law-explorer/workflows/CI%20Pipeline/badge.svg)
+![CI Pipeline](https://github.com/Unity-Legal-Affairs/case-law-explorer/workflows/CI%20Pipeline/badge.svg)
 ```
 
 ---
